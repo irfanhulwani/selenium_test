@@ -1,0 +1,24 @@
+1690121963706	geckodriver	INFO	Listening on 127.0.0.1:52093
+1690121963738	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "45569" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilesgyBdv"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+
+(firefox:14587): Gtk-WARNING **: 21:19:32.718: Theme directory panel/22 of theme Mojave-CT-Night has no size field
+
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1690121974049	Marionette	INFO	Marionette enabled
+1690121974066	Marionette	INFO	Listening on port 38689
+Read port: 38689
+Read port: 38689
+WebDriver BiDi listening on ws://127.0.0.1:45569
+1690121975575	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilesgyBdv/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:45569/devtools/browser/6f8f8459-2d6b-4286-8393-426eb1adb642
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2019))
+JavaScript error: resource://gre/modules/TelemetryUtils.sys.mjs, line 143: TypeError: date is undefined
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1690123036890	Marionette	INFO	Stopped listening on port 38689
